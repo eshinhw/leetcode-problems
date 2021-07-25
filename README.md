@@ -51,6 +51,7 @@ Python, C++
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | N/A | [Solution](https://quantshin.com/66-plus-one-easy/) | 🟢 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | optimal solution should be reviewed | [Solution](https://quantshin.com/125-valid-palindrome-easy/) | 🟡 |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | N/A | [Solution](https://quantshin.com/88-merge-sorted-array-easy/) | 🟢 |
+| []() | Easy | count number of fives | [Solution]() | 🟡 |
 
 
 
