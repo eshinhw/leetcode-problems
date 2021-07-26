@@ -54,6 +54,7 @@ Python, C++
 | [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Easy | count number of fives | [Solution](https://quantshin.com/172-factorial-trailing-zeroes-easy/) | 🟡 |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | sum formula: n(n+1)/2 | [Solution](https://quantshin.com/268-missing-number-easy/) | 🟢 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | collections.Counter() | [Solution](https://quantshin.com/242-valid-anagram-easy/) | 🟡 |
+| [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | straightforward | [Solution](https://quantshin.com/412-fizz-buzz-easy/) | 🟢 |
 
 
 
