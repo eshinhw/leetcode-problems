@@ -52,7 +52,9 @@ Python, C++
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | optimal solution should be reviewed | [Solution](https://quantshin.com/125-valid-palindrome-easy/) | 🟡 |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | N/A | [Solution](https://quantshin.com/88-merge-sorted-array-easy/) | 🟢 |
 | [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Easy | count number of fives | [Solution](https://quantshin.com/172-factorial-trailing-zeroes-easy/) | 🟡 |
-| [268. Missing Number](https://leetcode.com/problems/missing-number/) | sum formula: n(n+1)/2 | N/A | [Solution](https://quantshin.com/268-missing-number-easy/) | 🟢 |
+| [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | sum formula: n(n+1)/2 | [Solution](https://quantshin.com/268-missing-number-easy/) | 🟢 |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | collections.Counter() | [Solution](https://quantshin.com/242-valid-anagram-easy/) | 🟡 |
+
 
 
 
