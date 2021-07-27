@@ -55,6 +55,8 @@ Python, C++
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | sum formula: n(n+1)/2 | [Solution](https://quantshin.com/268-missing-number-easy/) | 🟢 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | collections.Counter() | [Solution](https://quantshin.com/242-valid-anagram-easy/) | 🟡 |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | straightforward | [Solution](https://quantshin.com/412-fizz-buzz-easy/) | 🟢 |
+| [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | dictionary and set | [Solution](https://quantshin.com/387-first-unique-character-in-a-string-easy/) | 🟡 |
+
 
 
 
