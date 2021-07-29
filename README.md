@@ -14,49 +14,49 @@ Python, C++
 | No. | Title | Difficulty  | Quick Notes | Solutions | Understanding |
 |:-------: | :--------------: | :---------: | :------: | :------: | :------: |
 | 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | | [Solution](https://quantshin.com/1-two-sum-easy/) | 🟢 |
-| 1 | [2. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | |  [Solution](https://quantshin.com/20-valid-parentheses-easy/) | 🟢 |
-| 1 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | |  [Solution](https://quantshin.com/21-merge-two-sorted-lists-easy/) | 🟢 |
-| 1 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy  | |  [Solution](https://quantshin.com/53-maximum-subarray/) | 🟡 |
-| 1 | [70. Climbing Chairs](https://leetcode.com/problems/climbing-stairs/) | Easy  | |  [Solution](https://quantshin.com/70-climbing-stairs/) | 🟡 |
-| 1 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | |  [Solution](https://quantshin.com/94-binary-tree-inorder-traversal-easy/) | 🟢 |
-| 1 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | |  [Solution](https://quantshin.com/101-symmetric-tree-easy/) | 🟡 |
-| 1 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | |  [Solution](https://quantshin.com/104-maximum-depth-of-binary-tree-easy/) | 🟢 |
-| 1 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | |  [Solution](https://quantshin.com/121-best-time-to-buy-and-sell-stock-easy/) | 🟡 |
-| 1 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | |  [Solution](https://quantshin.com/136-single-number-easy/) | 🟡 |
-| 1 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | |  [Solution](https://quantshin.com/141-linked-list-cycle-easy/) | 🟢 |
-| 1 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Easy | |  [Solution](https://quantshin.com/155-min-stack-easy/) | 🟢 |
-| 1 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | |  [Solution](https://quantshin.com/160-intersection-of-two-linked-lists-easy/) | 🟡 |
-| 1 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | |  [Solution](https://quantshin.com/169-majority-element-easy/) | 🟡 |
-| 1 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy  | |  [Solution](https://quantshin.com/206-reverse-linked-list-easy/) | 🔴 |
-| 1 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | recursive: swap left and right nodes |  [Solution](https://quantshin.com/226-invert-binary-tree-easy/) | 🟢 |
-| 1 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy  | trivial: save values in an array and check whether it's palindrome <br> optimal (O(n) time & O(1) space): double pointers, reverse list  | [Solution](https://quantshin.com/234-palindrome-linked-list-easy/) | 🟡 |
-| 1 | [283. Move Zeroes]() | Easy | | [Solution](https://quantshin.com/283-move-zeroes-easy/) | 🟡 | 
-| 1 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | python set operations | [Solution](https://quantshin.com/448-find-all-numbers-disappeared-in-an-array/) | 🟢 |
-| 1 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | calculate height and diameter from leaf nodes | [Solution](https://quantshin.com/543-diameter-of-binary-tree-easy/) | 🟡 |
-| 1 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | simplify things, don't overcomplicate things | [Solution](https://quantshin.com/617-merge-two-binary-trees-easy/) | 🟡 |
-| 1 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | Dynamic programming | [Solution](https://quantshin.com/338-counting-bits-easy/) | 🔴 |
-| 1 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium | Binary search, left/right pointer window | [Solution](https://quantshin.com/658-find-k-closest-elements-medium/) | 🟡 |
-| 1 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | Very easy problem.. | [Solution](https://quantshin.com/237-delete-node-in-a-linked-list-easy/) | 🟡 |
-| 1 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | binary search approach | [Solution](https://quantshin.com/344-reverse-string-easy/) | 🟢 |
-| 1 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | index operation | [Solution](https://quantshin.com/350-intersection-of-two-arrays-ii-easy/) | 🟡 |
-| 1 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | backtracking, stack | [Solution](https://quantshin.com/22-generate-parentheses-medium/) | 🟡 |
-| 1 | [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | backtracking | [Solution](https://quantshin.com/78-subsets-medium/) | 🟡 |
-| 1 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | linked list, manage carry | [Solution](https://quantshin.com/2-add-two-numbers-medium/) | 🟡 |
-| 1 | [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | recursion, backtracking | [Solution](https://quantshin.com/46-permutations-medium/) | 🟡 |
-| 1 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | linked list, pointer manipulation | [Solution](https://quantshin.com/19-remove-nth-node-from-end-of-list-medium/) | 🟢 |
-| 1 | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | linked list, pointer manipulation | [Solution](https://quantshin.com/1721-swapping-nodes-in-a-linked-list-medium/) | 🟢 |
-| 1 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | iterative, recursive | [Solution](https://quantshin.com/24-swap-nodes-in-pairs-medium/) | 🟢 |
-| 1 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | two pointers | [Solution](https://quantshin.com/142-linked-list-cycle-ii-medium/) | 🔴 |
-| 1 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | my solution can be improved further, review later | [Solution](https://quantshin.com/14-longest-common-prefix-easy/) | 🟡 |
-| 1 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | N/A | [Solution](https://quantshin.com/66-plus-one-easy/) | 🟢 |
-| 1 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | optimal solution should be reviewed | [Solution](https://quantshin.com/125-valid-palindrome-easy/) | 🟡 |
-| 1 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | N/A | [Solution](https://quantshin.com/88-merge-sorted-array-easy/) | 🟢 |
-| 1 | [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Easy | count number of fives | [Solution](https://quantshin.com/172-factorial-trailing-zeroes-easy/) | 🟡 |
-| 1 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | sum formula: n(n+1)/2 | [Solution](https://quantshin.com/268-missing-number-easy/) | 🟢 |
-| 1 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | collections.Counter() | [Solution](https://quantshin.com/242-valid-anagram-easy/) | 🟡 |
-| 1 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | straightforward | [Solution](https://quantshin.com/412-fizz-buzz-easy/) | 🟢 |
-| 1 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | dictionary and set | [Solution](https://quantshin.com/387-first-unique-character-in-a-string-easy/) | 🟡 |
-| 1 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | python set? | [Solution](https://quantshin.com/217-contains-duplicate-easy/) | 🟢 |
+| 2 | [2. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | |  [Solution](https://quantshin.com/20-valid-parentheses-easy/) | 🟢 |
+| 3 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | |  [Solution](https://quantshin.com/21-merge-two-sorted-lists-easy/) | 🟢 |
+| 4 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy  | |  [Solution](https://quantshin.com/53-maximum-subarray/) | 🟡 |
+| 5 | [70. Climbing Chairs](https://leetcode.com/problems/climbing-stairs/) | Easy  | |  [Solution](https://quantshin.com/70-climbing-stairs/) | 🟡 |
+| 6 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | |  [Solution](https://quantshin.com/94-binary-tree-inorder-traversal-easy/) | 🟢 |
+| 7 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | |  [Solution](https://quantshin.com/101-symmetric-tree-easy/) | 🟡 |
+| 8 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | |  [Solution](https://quantshin.com/104-maximum-depth-of-binary-tree-easy/) | 🟢 |
+| 9 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | |  [Solution](https://quantshin.com/121-best-time-to-buy-and-sell-stock-easy/) | 🟡 |
+| 10 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | |  [Solution](https://quantshin.com/136-single-number-easy/) | 🟡 |
+| 11 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | |  [Solution](https://quantshin.com/141-linked-list-cycle-easy/) | 🟢 |
+| 12 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Easy | |  [Solution](https://quantshin.com/155-min-stack-easy/) | 🟢 |
+| 13 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | |  [Solution](https://quantshin.com/160-intersection-of-two-linked-lists-easy/) | 🟡 |
+| 14 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | |  [Solution](https://quantshin.com/169-majority-element-easy/) | 🟡 |
+| 15 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy  | |  [Solution](https://quantshin.com/206-reverse-linked-list-easy/) | 🔴 |
+| 16 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | recursive: swap left and right nodes |  [Solution](https://quantshin.com/226-invert-binary-tree-easy/) | 🟢 |
+| 17 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy  | trivial: save values in an array and check whether it's palindrome <br> optimal (O(n) time & O(1) space): double pointers, reverse list  | [Solution](https://quantshin.com/234-palindrome-linked-list-easy/) | 🟡 |
+| 18 | [283. Move Zeroes]() | Easy | | [Solution](https://quantshin.com/283-move-zeroes-easy/) | 🟡 | 
+| 19 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | python set operations | [Solution](https://quantshin.com/448-find-all-numbers-disappeared-in-an-array/) | 🟢 |
+| 20 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | calculate height and diameter from leaf nodes | [Solution](https://quantshin.com/543-diameter-of-binary-tree-easy/) | 🟡 |
+| 21 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | simplify things, don't overcomplicate things | [Solution](https://quantshin.com/617-merge-two-binary-trees-easy/) | 🟡 |
+| 22 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | Dynamic programming | [Solution](https://quantshin.com/338-counting-bits-easy/) | 🔴 |
+| 23 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium | Binary search, left/right pointer window | [Solution](https://quantshin.com/658-find-k-closest-elements-medium/) | 🟡 |
+| 24 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | Very easy problem.. | [Solution](https://quantshin.com/237-delete-node-in-a-linked-list-easy/) | 🟡 |
+| 25 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | binary search approach | [Solution](https://quantshin.com/344-reverse-string-easy/) | 🟢 |
+| 26 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | index operation | [Solution](https://quantshin.com/350-intersection-of-two-arrays-ii-easy/) | 🟡 |
+| 27 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | backtracking, stack | [Solution](https://quantshin.com/22-generate-parentheses-medium/) | 🟡 |
+| 28 | [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | backtracking | [Solution](https://quantshin.com/78-subsets-medium/) | 🟡 |
+| 29 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | linked list, manage carry | [Solution](https://quantshin.com/2-add-two-numbers-medium/) | 🟡 |
+| 30 | [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | recursion, backtracking | [Solution](https://quantshin.com/46-permutations-medium/) | 🟡 |
+| 31 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | linked list, pointer manipulation | [Solution](https://quantshin.com/19-remove-nth-node-from-end-of-list-medium/) | 🟢 |
+| 32 | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | linked list, pointer manipulation | [Solution](https://quantshin.com/1721-swapping-nodes-in-a-linked-list-medium/) | 🟢 |
+| 33 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | iterative, recursive | [Solution](https://quantshin.com/24-swap-nodes-in-pairs-medium/) | 🟢 |
+| 34 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | two pointers | [Solution](https://quantshin.com/142-linked-list-cycle-ii-medium/) | 🔴 |
+| 35 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | my solution can be improved further, review later | [Solution](https://quantshin.com/14-longest-common-prefix-easy/) | 🟡 |
+| 36 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | N/A | [Solution](https://quantshin.com/66-plus-one-easy/) | 🟢 |
+| 37 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | optimal solution should be reviewed | [Solution](https://quantshin.com/125-valid-palindrome-easy/) | 🟡 |
+| 38 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | N/A | [Solution](https://quantshin.com/88-merge-sorted-array-easy/) | 🟢 |
+| 39 | [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Easy | count number of fives | [Solution](https://quantshin.com/172-factorial-trailing-zeroes-easy/) | 🟡 |
+| 40 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | sum formula: n(n+1)/2 | [Solution](https://quantshin.com/268-missing-number-easy/) | 🟢 |
+| 41 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | collections.Counter() | [Solution](https://quantshin.com/242-valid-anagram-easy/) | 🟡 |
+| 42 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | straightforward | [Solution](https://quantshin.com/412-fizz-buzz-easy/) | 🟢 |
+| 43 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | dictionary and set | [Solution](https://quantshin.com/387-first-unique-character-in-a-string-easy/) | 🟡 |
+| 44 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | python set? | [Solution](https://quantshin.com/217-contains-duplicate-easy/) | 🟢 |
 
 
 
