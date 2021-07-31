@@ -57,6 +57,8 @@ Python, C++
 | 42 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | straightforward | [Solution](https://quantshin.com/412-fizz-buzz-easy/) | 🟢 |
 | 43 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | dictionary and set | [Solution](https://quantshin.com/387-first-unique-character-in-a-string-easy/) | 🟡 |
 | 44 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | python set? | [Solution](https://quantshin.com/217-contains-duplicate-easy/) | 🟢 |
+| 45 | []() | Easy | Comments | [Solution]() | 🟡 |
+| 46 | []() | Easy | Comments | [Solution]() | 🟡 |
 
 
 
